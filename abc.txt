@@ -1,3 +1,5 @@
 The is document
 This is some modification.
 I have fixed bug #1
+
+I have fixed bug #3
