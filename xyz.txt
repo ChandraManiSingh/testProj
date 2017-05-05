@@ -1,2 +1,2 @@
 This is xyz file
-I am fixing bug 2 - in progress
+I am fixing bug 2 - Fixed
